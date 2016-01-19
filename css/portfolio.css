@@ -131,6 +131,7 @@ footer {
 }
 
 .footer-sub {
+    width: 300px;
     font-size: 24pt;
     font-weight: 200;
     margin-bottom: 15pt;
