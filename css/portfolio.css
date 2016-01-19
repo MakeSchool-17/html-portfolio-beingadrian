@@ -180,6 +180,15 @@ footer {
 
 @media (min-width: 240px) and (max-width: 375px) {
 
+    ul {
+        padding: 0;
+    }
+
+    .nav {
+        margin: 20pt 0;
+        text-align: center;
+    }
+
     .main {
         font-size: 38px;
     }
