@@ -1,0 +1,30 @@
+/* GALLERY.CSS */
+
+.gallery-title {
+    letter-spacing: 1pt;
+    text-align: center;
+    font-weight: 100;
+    font-size: 36pt;
+}
+
+.gallery-margin {
+    margin: 0 7% 7% 7%;
+}
+
+/* Media queries */
+
+@media (min-width: 330px) and (max-width: 470px) {
+
+    .gallery-title {
+        font-size: 24pt;
+    }
+
+}
+
+@media (max-width: 330px) {
+
+    .gallery-title {
+        font-size: 20pt;
+    }
+
+}
