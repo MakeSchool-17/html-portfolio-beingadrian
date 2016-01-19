@@ -2,7 +2,7 @@
 
 A simple and responsive static website built in a day.
 
-What I used to built it:
+What I used to build it:
 * HTML5
 * CSS3
 * JavaScript
