@@ -3,7 +3,7 @@ $(document).ready(function () {
     $('form').submit(function(e) {
         e.preventDefault();
         $.ajax({
-            url: "//formspree.io/adrian@beingadrian.com",
+            url: "http://formspree.io/adrian@beingadrian.com",
             method: "POST",
             data: {
                 email: $('.email').val(),
