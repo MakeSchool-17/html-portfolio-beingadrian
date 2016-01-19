@@ -143,6 +143,7 @@ footer {
     border: solid 1pt #eee;
     border-radius: 5pt;
     padding: 8pt 12pt;
+    background-color: transparent;
 }
 
 .button:hover {
